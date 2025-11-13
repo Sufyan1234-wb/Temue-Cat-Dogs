@@ -973,7 +973,7 @@
 .best-li {
     height: max-content;
     width: 800px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin: auto;
     margin-top: 23px;
     display: flex;
@@ -1053,7 +1053,7 @@
 .product {
     height: max-content;
     width: 90%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin: auto;
     margin-top: 23px;
     display: flex;
